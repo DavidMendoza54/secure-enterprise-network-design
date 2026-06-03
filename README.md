@@ -57,5 +57,4 @@ I learned how segmentation, access control, firewall placement, and documentatio
 - `/documentation` - Written security architecture and project notes
 
 # secure-enterprise-network-design
-Project for my resume. 
-
+This project is a reconstructed academic cybersecurity architecture case study.
