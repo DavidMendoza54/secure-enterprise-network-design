@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Secure Enterprise Network Design
 
 ## Overview
@@ -45,4 +45,4 @@ The proposed network separates systems into security zones, including a public-f
 =======
 # secure-enterprise-network-design
 Project for my resume. 
->>>>>>> 4c6dfa95ac94c73637f353ecaff974d86d5b4ff8
+
