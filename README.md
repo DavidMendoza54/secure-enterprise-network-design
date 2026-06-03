@@ -27,6 +27,7 @@ Public-facing services were separated from internal resources, user devices were
 
 ## Security Design Decisions
 | Design Decision | Reason |
+| --- | --- |
 |Separate public-facing services from internal systems|Reduces the chance of a compromised public service exposing internal resources|
 |Use segmented network zones|Limits lateral movement and separates different types of systems|
 |Restrict administrative access|Protects high-privilege systems from unnecessary exposure|
