@@ -26,6 +26,7 @@ The main security concern was limiting unnecessary exposure between the internet
 Public-facing systems are separated from internal resources, guest Wi-Fi is isolated from business systems, printers are placed in their own segment, and administrative tools are separated into a management network. This helps reduce the chance that one compromised device or service could expose the rest of the environment.
 
 ## Security Design Decisions
+
 | Design Decision | Reason |
 | --- | --- |
 |Separate public-facing services from internal systems|Reduces the chance of an exposed service leading directly to sensitive internal resources.|
